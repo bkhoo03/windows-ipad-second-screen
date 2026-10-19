@@ -1,0 +1,19 @@
+# Python virtual environment (machine-specific, never share)
+.venv/
+venv/
+env/
+
+# Python bytecode cache
+__pycache__/
+*.py[cod]
+*.pyo
+
+# Temp files created by vdd_control.py at runtime
+vdd_toggle.ps1
+vdd_toggle_result.txt
+
+# OS / editor junk
+Thumbs.db
+desktop.ini
+.DS_Store
+.vscode/
